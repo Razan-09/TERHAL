@@ -1,0 +1,11 @@
+[server]
+enableStaticServing = true
+
+[client]
+# hide the automatic sidebar page list (navigation is done with buttons)
+showSidebarNavigation = false
+
+[theme]
+base = "light"
+primaryColor = "#17594A"
+textColor = "#17382D"
